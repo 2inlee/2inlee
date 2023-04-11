@@ -1,7 +1,12 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=240&section=header&text=In%20Lee%20&fontSize=90&fontColor=FFFFFF&animation=twinkling)
+<div align=center>
 
-![header](https://user-images.githubusercontent.com/95608811/231029899-fcbd77ce-eda1-47dd-a4e5-b63e8a931752.png)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3E70F5&height=240&section=header&text=In%20Lee%20&fontSize=90&fontColor=FFFFFF&animation=twinkling)
+<br>
+
+<img src="https://user-images.githubusercontent.com/101442533/231036848-470297bf-1b0e-4e40-8609-07258c06c3d0.png"/>
+</div>
+
 
 ## <img src="https://user-images.githubusercontent.com/95608811/231029912-4d8cc4f8-b832-4194-8471-1b2556d57393.png" style="height: 30px"/> Hi There!👋
 #### I'm Inlee, <code>CEO of wevement</code>
