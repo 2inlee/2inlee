@@ -1,7 +1,7 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=3E70F5&height=240&section=header&text=In%20Lee%20&fontSize=90&fontColor=FFFFFF&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3E70F5&height=240&section=header&text=In%20Lee%20&fontSize=90&fontColor=timeAuto&animation=twinkling)
 <br>
 
 <img src="https://user-images.githubusercontent.com/101442533/231036848-470297bf-1b0e-4e40-8609-07258c06c3d0.png"/>
@@ -45,19 +45,3 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
 
-
-
-<!--
-**Duxpiex/Duxpiex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
