@@ -1,7 +1,7 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=3E70F5&height=240&section=header&text=In%20Lee%20&fontSize=90&fontColor=timeAuto&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8581f5&height=240&section=header&text=In%20Lee%20&fontSize=90&fontColor=ffffff&animation=twinkling)
 <br>
 
 <img src="https://user-images.githubusercontent.com/101442533/231036848-470297bf-1b0e-4e40-8609-07258c06c3d0.png"/>
@@ -43,5 +43,5 @@
 <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/95608811/231038241-b074c26b-2f58-4ec8-8584-4b66aea03fe7.svg" width="40" height="40" align="left"/></a>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=8581f5&height=200&section=footer)
 
