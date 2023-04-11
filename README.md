@@ -18,8 +18,7 @@
 
 [![github_stats](https://github-readme-stats.vercel.app/api?username=2inlee&show_icons=true&hide_border=true)](https://github.com/EunsuSeo01)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2inlee&langs_count=8&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=27282200)](https://github.com/Duxpiex)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2inlee&layout=compact)
 
 
 <h2> 🛠 Tech Stacks</h2>
