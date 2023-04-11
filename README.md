@@ -42,5 +42,8 @@
 <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/95608811/231038241-b074c26b-2f58-4ec8-8584-4b66aea03fe7.svg" width="40" height="40" align="left"/></a>
 <img src="https://user-images.githubusercontent.com/101442533/231060113-4cf6aad7-4d6e-45d9-ba9d-4d13f634e868.svg" width="40" height="40" align="left"/>
 
+<div align=center>
+  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=8581f5&height=200&section=footer)
+</div>
 
