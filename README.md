@@ -11,11 +11,13 @@
 ## <img src="https://user-images.githubusercontent.com/95608811/231029912-4d8cc4f8-b832-4194-8471-1b2556d57393.png" style="height: 30px"/> Hi There!👋
 #### I'm Inlee, <code>leader of Wevement</code>
 
-- 🤔 I'm a `Product Manager`
+- 🤔 I'm a `Software Engineer`
 
 - 🔭 Various projects are underway to solve social problems. 😁
 
 - Wikidocs [바로 시작하는 ChatGPT](https://wikidocs.net/book/12439) 저자
+
+- Try it quickly and learn it accurately.
 
 
 [![github_stats](https://github-readme-stats.vercel.app/api?username=2inlee&show_icons=true&hide_border=true)](https://github.com/EunsuSeo01)
