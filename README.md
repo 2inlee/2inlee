@@ -21,7 +21,7 @@
 
 - Experience in developing and operating kiosks for training delivery to national institutions
 
-- 2022~2023 DMU PD Lab, MIT Leader
+- 2023 DMU PD Lab, MIT Leader
 
 [![github_stats](https://github-readme-stats.vercel.app/api?username=2inlee&show_icons=true&hide_border=true)](https://github.com/EunsuSeo01)
 
