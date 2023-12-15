@@ -25,7 +25,9 @@
 
 - Aily [AI Recycler Project Aily](https://github.com/Aily-AIRecycle)
 
-- My Blog [Inlee's Blog](https://inlee.site)
+- My Home [Inlee's Home](https://inlee.kr)
+  
+- My Blog [Inlee's Blog](https://blog.inlee.kr)
 
 [![github_stats](https://github-readme-stats.vercel.app/api?username=2inlee&show_icons=true&hide_border=true)](https://github.com/2inlee)
 
