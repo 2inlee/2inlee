@@ -33,7 +33,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2inlee&layout=compact)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldlsgh24)](https://solved.ac/dldlsgh24)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldlsgh24)](https://solved.ac/dldlsgh24)
 
 
 <h2> 🛠 Tech Stacks</h2>
