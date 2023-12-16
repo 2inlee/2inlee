@@ -29,9 +29,10 @@
   
 - My Blog [Inlee's Blog](https://blog.inlee.kr)
 
-[![github_stats](https://github-readme-stats.vercel.app/api?username=2inlee&show_icons=true&hide_border=true)](https://github.com/2inlee)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2inlee&layout=compact)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2inlee&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2inlee&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldlsgh24)](https://solved.ac/dldlsgh24)
 
