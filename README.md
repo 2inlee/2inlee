@@ -35,7 +35,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldlsgh24)](https://solved.ac/dldlsgh24)
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2inlee&count_bg=%238BBEE9&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
 <h2> 🛠 Tech Stacks</h2>
 <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/95608811/231034888-4fbfdb5d-14a0-4d15-86ed-ba3120511daf.png" width="40" height="40" align="left"/></a>
 <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/95608811/231035528-b5044856-e7e1-4f01-acf0-fae419e78100.svg" width="40" height="40" align="left"/></a>
@@ -58,7 +58,6 @@
 <img src="https://user-images.githubusercontent.com/101442533/231060113-4cf6aad7-4d6e-45d9-ba9d-4d13f634e868.svg" width="40" height="40" align="left"/>
 
 <div align=center>
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=8581f5&height=200&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=8581f5&height=200&section=footer)
 </div>
 
