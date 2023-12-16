@@ -33,6 +33,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2inlee&layout=compact)
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=유저네임)](https://solved.ac/dldlsgh24)
+
 
 <h2> 🛠 Tech Stacks</h2>
 <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/95608811/231034888-4fbfdb5d-14a0-4d15-86ed-ba3120511daf.png" width="40" height="40" align="left"/></a>
