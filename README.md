@@ -15,8 +15,9 @@
 
 - 🔭 Various projects are underway to solve social problems. 😁
 
-- Wikidocs author of [바로 시작하는 ChatGPT](https://wikidocs.net/book/12439) Getting Started with ChatGPT Immediately
-
+- Wikidocs author of [바로 시작하는 ChatGPT](https://wikidocs.net/book/12439)
+- Getting Started with ChatGPT Immediately
+  
 - Try it quickly and learn it accurately.
 
 - Experience in developing and operating kiosks for training delivery to national institutions
