@@ -55,7 +55,3 @@
 <img src="https://user-images.githubusercontent.com/101442533/231060113-4cf6aad7-4d6e-45d9-ba9d-4d13f634e868.svg" width="40" height="40" align="left"/>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=time&height=200&section=footer)
-<div align=center>
-</div>
-
