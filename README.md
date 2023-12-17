@@ -15,7 +15,7 @@
 
 - 🔭 Various projects are underway to solve social problems. 😁
 
-- Wikidocs [바로 시작하는 ChatGPT](https://wikidocs.net/book/12439) 저자
+- Wikidocs [바로 시작하는 ChatGPT](https://wikidocs.net/book/12439) Author
 
 - Try it quickly and learn it accurately.
 
