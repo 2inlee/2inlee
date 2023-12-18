@@ -45,7 +45,6 @@
 <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/95608811/231034904-1d3ced3a-53b7-4e0e-85e6-59bdc4b3ec8c.svg" width="40" height="40" align="left"/></a>
 <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/95608811/231034924-47652c82-d5fc-4c8e-91cf-51d016de87b7.svg" width="40" height="40" align="left"/></a>
 <br>
-<br>
 <h2> 🛠 Tools</h2>
 <img src="https://user-images.githubusercontent.com/95608811/231035357-1a855064-f0b2-48c0-8817-58273a55b0ba.svg" width="40" height="40" align="left"/>
 <img src="https://user-images.githubusercontent.com/95608811/231038227-96b35d7e-dc2d-485f-9bcb-0a10b9680b47.svg" width="40" height="40" align="left"/>
