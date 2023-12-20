@@ -21,7 +21,7 @@
   
 - Try it quickly and learn it accurately.
 
-- Experience in developing and operating kiosks for training delivery to national institutions
+- Experience in developing and operating kiosks for training delivery to `national institutions`
 
 - 2023 DMU PD Lab, MIT Leader
 
