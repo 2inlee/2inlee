@@ -6,8 +6,8 @@
 
 <img src="https://user-images.githubusercontent.com/101442533/231036848-470297bf-1b0e-4e40-8609-07258c06c3d0.png"/>
 </div>
-<img src="https://user-images.githubusercontent.com/95608811/231029912-4d8cc4f8-b832-4194-8471-1b2556d57393.png" style="height: 30px"/>
-## Hi There!👋
+
+## <img src="https://user-images.githubusercontent.com/95608811/231029912-4d8cc4f8-b832-4194-8471-1b2556d57393.png" style="height: 30px"/> Hi There!👋
 #### I'm Inlee, <code>leader of Wevement</code>
 
 - 🤔 I'm a `Software Engineer`
@@ -52,5 +52,3 @@
 <img src="https://user-images.githubusercontent.com/95608811/231038215-73be8b3b-0bd6-4f60-93c3-b0260a4b9aa5.svg" width="40" height="40" align="left"/>
 <a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/95608811/231038241-b074c26b-2f58-4ec8-8584-4b66aea03fe7.svg" width="40" height="40" align="left"/></a>
 <img src="https://user-images.githubusercontent.com/101442533/231060113-4cf6aad7-4d6e-45d9-ba9d-4d13f634e868.svg" width="40" height="40" align="left"/>
-
-
