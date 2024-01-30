@@ -6,7 +6,8 @@
 
 <img src="https://user-images.githubusercontent.com/101442533/231036848-470297bf-1b0e-4e40-8609-07258c06c3d0.png"/>
 </div>
-## <img src="https://user-images.githubusercontent.com/95608811/231029912-4d8cc4f8-b832-4194-8471-1b2556d57393.png" style="height: 30px"/> Hi There!👋
+<img src="https://user-images.githubusercontent.com/95608811/231029912-4d8cc4f8-b832-4194-8471-1b2556d57393.png" style="height: 30px"/>
+## Hi There!👋
 #### I'm Inlee, <code>leader of Wevement</code>
 
 - 🤔 I'm a `Software Engineer`
