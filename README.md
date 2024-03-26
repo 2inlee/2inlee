@@ -13,7 +13,6 @@
 
 - 🤔 I'm a `Software Engineer`
 
-
 - 🔭 Various projects are underway to solve social problems. 😁
 
 - Wikidocs author of [바로 시작하는 ChatGPT](https://wikidocs.net/book/12439) [views 10k+]
