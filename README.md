@@ -4,7 +4,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=time&height=240&section=header&text=In%20Lee%20&fontSize=90&fontColor=ffffff&animation=twinkling)
 <br>
 
-
 <img src="https://user-images.githubusercontent.com/101442533/231036848-470297bf-1b0e-4e40-8609-07258c06c3d0.png"/>
 </div>
 
