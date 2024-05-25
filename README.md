@@ -10,7 +10,6 @@
 ## <img src="https://user-images.githubusercontent.com/95608811/231029912-4d8cc4f8-b832-4194-8471-1b2556d57393.png" style="height: 30px"/> Hi There!👋
 #### I'm Inlee, <code>leader of Wevement</code>
 
-
 - 🤔 I'm a `Software Engineer`
 
 - 🔭 Various projects are underway to solve social problems. 😁
